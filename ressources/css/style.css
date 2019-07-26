@@ -85,7 +85,7 @@ section{
 header{
     background-image: linear-gradient(  rgba(0,242,96,0.4),
                                         rgba(7,11,230,0.5)
-                                    ),url(../images/header.jpg);
+                                    ),url(../images/header-compressor.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
